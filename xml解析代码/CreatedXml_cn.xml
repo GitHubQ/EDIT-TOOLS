@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<root>
+  <newNode1>newNode1 content</newNode1>
+  <newNode2>newNode2 content</newNode2>
+  <newNode3>newNode3 content</newNode3>
+  <node1>节点1的内容</node1>
+  <node2 attribute="属性值">NODE CONTENT</node2>
+  <中文节点>content of chinese node</中文节点>
+</root>

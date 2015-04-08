@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root>
+	
+	<newNode2>content changed</newNode2>
+	<newNode3 newAttr="YES">newNode3 content</newNode3>
+	<node2 attribute="no">NODE CONTENT</node2>
+	<son>
+		<grandson>This is a grandson node</grandson>
+	<newGrandSon>new content</newGrandSon></son>
+</root>
